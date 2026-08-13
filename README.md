@@ -59,30 +59,18 @@ A **desktop navigation menu** and a **separate mobile navigation menu** were cre
 
 ## Screenshots
 
-You can add your website screenshots to the repository and display them in this section.
 
-```markdown
+
+
 ![Home Page](screenshot1.png)
 
-![Products Page](screenshot2.png)
 
-![Login Page](screenshot3.png)
-
-![Contact Page](screenshot4.png)
-```
 
 ## How to Add Screenshots
 
 Rename your screenshots:
 
-```text
-screenshot1.png
-screenshot2.png
-screenshot3.png
-screenshot4.png
-```
 
-Place them in the same folder as your `README.md`.
 
 Example project structure:
 
